@@ -71,6 +71,7 @@ public class Main {
                         }
                     }
                     break;
+
                 case 5:
                     supermercadoAbierto = false;
                     System.out.println("Supermercado cerrado.");
